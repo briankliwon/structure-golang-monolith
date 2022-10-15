@@ -1,2 +1,1 @@
-# structured_go_rest
-Base Structured folder for developing in golang
+Recomendation golang structured progrem when using monolith architecture
